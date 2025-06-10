@@ -151,7 +151,7 @@ python mcp_pipe.py Wechat_Sender.py
 联系我加入MCP开发大群，与我们一起，让 AI 的触角延伸到更多设备与场景吧！
 
 <div align="center">
-  <img src="docs/connect.jpg" width="400">
+  <img src="docs/connect.jpg" width="200">
 </div>
 ---
 
