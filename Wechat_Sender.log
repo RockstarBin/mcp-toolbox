@@ -1,0 +1,122 @@
+2025-06-11 01:58:27,353 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 01:58:27,662 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 01:58:27,679 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\Wechat_Sender.py process
+[06/11/25 01:58:28] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+[06/11/25 01:59:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:00:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:01:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:01:54] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+[06/11/25 02:02:13] INFO     Sending message to WeChat:     Wechat_Sender.py:22
+                             123321 to 乔乔                                    
+[06/11/25 02:02:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+                    INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+[06/11/25 02:02:49] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+[06/11/25 02:02:57] INFO     Sending message to WeChat:     Wechat_Sender.py:22
+                             如果你有梦，你会把这个梦给谁？                    
+                             比如可以写一篇关于梦想传递的作                    
+                             文，讲述你将梦想传递给未来的孩                    
+                             子们，让他们继续追逐和实现梦想                    
+                             的故事。 to 乔乔                                  
+[06/11/25 02:03:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:04:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:05:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:06:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+2025-06-11 02:06:31,347 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-06-11 02:06:33,563 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 02:06:33,857 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 02:06:33,867 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\Wechat_Sender.py process
+[06/11/25 02:06:34] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+2025-06-11 02:06:40,634 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-06-11 02:10:16,906 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 02:10:17,183 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 02:10:17,192 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\Wechat_Sender.py process
+[06/11/25 02:10:18] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+[06/11/25 02:10:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:11:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:12:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:13:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:14:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+2025-06-11 02:15:16,880 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-06-11 02:15:24,930 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 02:15:25,222 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 02:15:25,230 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\Wechat_Sender.py process
+[06/11/25 02:15:26] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+[06/11/25 02:15:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:16:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:17:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:18:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:19:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:20:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:21:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:22:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:23:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:24:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:25:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:26:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:27:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:28:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:29:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:30:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:31:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:32:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:33:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:34:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:35:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:36:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:37:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:38:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:39:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:40:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:41:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:42:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:43:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+2025-06-11 02:44:02,280 - MCP_PIPE - INFO - Received interrupt signal, shutting down...

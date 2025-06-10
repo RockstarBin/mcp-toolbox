@@ -1,0 +1,160 @@
+2025-06-09 01:52:48,379 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:52:50,938 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:53:00,778 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:53:03,257 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:53:13,103 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:53:14,724 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:53:25,435 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:53:26,728 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:53:29,957 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:53:31,720 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:53:42,219 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:53:43,484 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:53:54,598 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:53:56,824 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:54:06,947 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:54:08,794 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:54:19,327 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:54:20,630 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:54:29,944 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:54:34,172 - App_Launcher - INFO - 成功获取管理员权限
+2025-06-09 01:54:42,242 - App_Launcher - INFO - 请求管理员权限...
+2025-06-09 01:54:44,397 - App_Launcher - ERROR - 获取管理员权限失败
+2025-06-09 01:54:44,397 - App_Launcher - ERROR - 无法获取管理员权限，程序将以普通权限运行
+2025-06-09 01:54:44,397 - App_Launcher - ERROR - 某些应用程序可能无法正常打开
+2025-06-09 01:54:44,451 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-06-09 01:55:26,965 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-06-11 01:58:27,313 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 01:58:27,616 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 01:58:27,656 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\app_launcher.py process
+[06/11/25 01:58:28] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+[06/11/25 01:59:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:00:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:01:13] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    ERROR    Error opening application:     app_launcher.py:107
+                             name 'os_path' is not defined                     
+[06/11/25 02:01:24] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    ERROR    Error opening application:     app_launcher.py:107
+                             name 'os_path' is not defined                     
+[06/11/25 02:01:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:02:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:03:08] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    ERROR    Error opening application:     app_launcher.py:107
+                             name 'os_path' is not defined                     
+[06/11/25 02:03:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:04:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:05:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:06:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+2025-06-11 02:06:31,348 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-06-11 02:06:33,523 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 02:06:33,807 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 02:06:33,834 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\app_launcher.py process
+[06/11/25 02:06:34] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+2025-06-11 02:06:40,634 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-06-11 02:10:16,862 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 02:10:17,211 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 02:10:17,220 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\app_launcher.py process
+[06/11/25 02:10:18] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+[06/11/25 02:10:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:11:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:12:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:13:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:14:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+2025-06-11 02:15:16,880 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
+2025-06-11 02:15:24,894 - MCP_PIPE - INFO - Connecting to WebSocket server...
+2025-06-11 02:15:25,184 - MCP_PIPE - INFO - Successfully connected to WebSocket server
+2025-06-11 02:15:25,193 - MCP_PIPE - INFO - Started D:\ESPIDF\mcp-tools-main\app_launcher.py process
+[06/11/25 02:15:26] INFO     Processing request of type           server.py:558
+                             ListToolsRequest                                  
+[06/11/25 02:15:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:15:36] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    INFO     Opened application: qqmusic    app_launcher.py:103
+[06/11/25 02:15:47] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    INFO     Searched Google for: C��       app_launcher.py:162
+[06/11/25 02:15:55] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    INFO     Searched Google for:           app_launcher.py:162
+                             ����˹�����޵Ķ���                                
+[06/11/25 02:16:08] INFO     Processing request of type           server.py:558
+                             CallToolRequest                                   
+                    INFO     Searched Google for:           app_launcher.py:162
+                             �ֿ��翴ŷ��������                                
+[06/11/25 02:16:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:17:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:18:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:19:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:20:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:21:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:22:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:23:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:24:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:25:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:26:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:27:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:28:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:29:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:30:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:31:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:32:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:33:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:34:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:35:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:36:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:37:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:38:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:39:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:40:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:41:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:42:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+[06/11/25 02:43:27] INFO     Processing request of type           server.py:558
+                             PingRequest                                       
+2025-06-11 02:44:02,281 - MCP_PIPE - INFO - Received interrupt signal, shutting down...
