@@ -1,8 +1,8 @@
 # 赛搏MCP 工具箱（桌面控制篇）
 
-> 让语言模型真正 "动手"，在你的 Windows 电脑上完成自动化操作。
+> 让小智设备 "动手"，帮助在你的 Windows 电脑上自动完成各种操作。
 
-本仓库基于 **Model&nbsp;Context&nbsp;Protocol (MCP)**，将多种桌面自动化能力封装为可被远端 AI 调用的 **MCP 工具（tool）**。
+本仓库基于 **Model&nbsp;Context&nbsp;Protocol (MCP)**，将多种桌面自动化能力封装为可被供各类小智设备调用的 **MCP 工具（tool）**；
 通过 `mcp_pipe.py` 建立 WebSocket 通道后，云端的大模型即可像调用 API 一样调用本地脚本，完成打开/关闭应用、管理 Outlook 日历与邮件、自动发送微信消息、记录工作日志等操作。
 
 ---
@@ -11,9 +11,9 @@
 
 | 模块               | 主要功能                                 | 关键依赖              | 运行方式示例 |
 |--------------------|------------------------------------------|-----------------------|--------------|
-| `app_launcher.py`  | • 打开/关闭常用桌面应用<br/>• 谷歌/百度搜索<br/>• 通过 Steam 启动 Dota 2 | `psutil`             | `python mcp_pipe.py app_launcher.py` |
-| `outlook_manager.py` | • 增删查改 Outlook 日历事件<br/>• 发送邮件（支持附件/重要性）<br/>• 联系人 CRUD<br/>• 批量删除日历事件 | `pywin32`、`dateparser`（可选） | `python mcp_pipe.py outlook_manager.py` |
-| `Wechat_Sender.py` | • 向指定联系人发送文字消息               | `wxauto`              | `python mcp_pipe.py Wechat_Sender.py` |
+| `app_launcher.py`  | • 打开/关闭常用桌面应用<br/>• 打开谷歌浏览器<br/>• 谷歌/百度搜索<br/>• 打开微信<br/>• 打开QQ音乐<br/>• 打开腾讯会议<br/>• 通过 Steam 启动 Dota 2 | `psutil`             | `python mcp_pipe.py app_launcher.py` |
+| `outlook_manager.py` | • 增删查改 Outlook 日历事件<br/>• 发送邮件（支持附件/重要性）<br/>• 增删查改联系人 CRUD<br/>• 批量删除日历事件 | `pywin32`、`dateparser`（可选） | `python mcp_pipe.py outlook_manager.py` |
+| `Wechat_Sender.py` | • 向指定联系人发送微信文字消息               | `wxauto`              | `python mcp_pipe.py Wechat_Sender.py` |
 | `work_logger.py`   | • 在桌面生成 "工作日志/日期.txt" 并追加条目 | 无                    | `python mcp_pipe.py work_logger.py` |
 | `start_all_services.py` | • 一键启动并守护所有上述模块            | 内置                  | `python start_all_services.py` |
 | `mcp_pipe.py`      | • WebSocket ↔ 本地脚本双向管道<br/>• 自动重连 & 子进程管理 | `websockets`、`python-dotenv` | _内部调用_ |
@@ -137,7 +137,7 @@ python mcp_pipe.py Wechat_Sender.py
 ---
 
 ## 五、参与贡献
-我们期待你的 Pull Request！欢迎提交：
+本代码还有很多不完善之处，我们期待你的 Pull Request！欢迎提交：
 
 - **新的 MCP 工具**：急需扩展非电脑系统控制类、如联网搜索、音乐播放、有声读物、智能家居控制等。
 - **跨平台支持**：实现 macOS (`pyobjc`) 或 Linux (DBus, xdotool) 的等价功能。
@@ -148,8 +148,11 @@ python mcp_pipe.py Wechat_Sender.py
 - 新增依赖已在 `requirements.txt` 中声明；
 - 相关功能附带示例或测试脚本。
 
-与我们一起，让 AI 的触角延伸到更多设备与场景吧！
+联系我加入MCP开发大群，与我们一起，让 AI 的触角延伸到更多设备与场景吧！
 
+<div align="center">
+  <img src="docs/connect.jpg" width="400">
+</div>
 ---
 
 ## License
