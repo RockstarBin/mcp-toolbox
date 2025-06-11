@@ -114,12 +114,18 @@ python start_all_services.py
 
 ---
 
-## 三、进阶：单模块运行 & 调试
+## 三、进阶：单模块运行 & 调试 & 关机后再次运行
 ```bat
 # 只调试微信发送模块（日志会写入 Wechat_Sender.log）
 python mcp_pipe.py Wechat_Sender.py
 ```
 在该 CMD 窗口实时打印与云端交互数据，便于定位问题。
+```bat
+# 关机后再次运行部署好的项目：
+第一步：打开cmd或Powershell CD到mcp-toolbox-main目录
+第二步：运行  call .venv\Scripts\activate
+第三步：运行  python start_all_services.py
+```
 
 ---
 
